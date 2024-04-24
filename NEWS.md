@@ -1,3 +1,6 @@
+# cliapp 0.1.2
+
+No changes.
 
 # 0.1.1
 
